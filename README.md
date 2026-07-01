@@ -3,7 +3,6 @@
 
 # @seneca/kv
 
-[![npm version](https://img.shields.io/npm/v/@seneca/kv.svg)](https://npmjs.com/package/@seneca/kv)
 [![build](https://github.com/senecajs/seneca-kv/actions/workflows/build.yml/badge.svg)](https://github.com/senecajs/seneca-kv/actions/workflows/build.yml)
 [![Known Vulnerabilities](https://snyk.io/test/github/senecajs/seneca-kv/badge.svg)](https://snyk.io/test/github/senecajs/seneca-kv)
 
