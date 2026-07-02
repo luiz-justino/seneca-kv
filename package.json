@@ -1,0 +1,10 @@
+{
+  "name": "@seneca/kv",
+  "version": "0.0.1",
+  "description": "Key-value store plugin for Seneca microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT"
+}
